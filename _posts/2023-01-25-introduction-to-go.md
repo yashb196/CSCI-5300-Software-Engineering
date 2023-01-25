@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning the programming Language Golang or GO"
+title: "Golang or GO"
 date: 2023-01-25
 ---
 
@@ -10,8 +10,8 @@ as this language is said to be used as a replacement for the current backend nod
 
 Why Learn Go?
 
-1.my goal from masters is to become a Website developer and learning this language should help me get closer to my dream to become a web developer
-2.Golang was a language not known to me until recent times, 
+1. My goal from masters is to become a Website developer and learning this language should help me get closer to my dream to become a web developer
+2. Golang was a language not known to me until recent times, 
 But a few days back i received an opportunity to become a teaching assistant for Artificial Intelligence, 
 With that opportunity the projects that were supposed to be done by the students should be in Go,
 I took this as an opportunity and as I entered the Software Engineering class we were instructed that we need to learn a new language through this whole course so,
