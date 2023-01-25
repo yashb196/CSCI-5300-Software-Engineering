@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Learning the programming Language Golang or GO"
 description: " 1. Go or golang being one of the languages introduced by google makes it fascinating to learn and to know more about,
 as this language is said to be used as a replacement for the current backend node js,
