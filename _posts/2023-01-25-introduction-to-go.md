@@ -8,8 +8,7 @@ Programming language Golang
 1. Go or golang being one of the languages introduced by google makes it fascinating to learn and to know more about,
 as this language is said to be used as a replacement for the current backend node js,
 
-Why Learn Go?
-
+Why Learn Go
 1. My goal from masters is to become a Website developer and learning this language should help me get closer to my dream to become a web developer
 2. Golang was a language not known to me until recent times, 
 But a few days back i received an opportunity to become a teaching assistant for Artificial Intelligence, 
